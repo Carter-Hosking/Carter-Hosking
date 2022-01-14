@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there, I am currently a Comp Sci student at Eastern Washington University. I enjoy skiing, hiking, and working out.
+### I am excited to learn the inner workings of Java.
 
 <!--
 **Carter-Hosking/Carter-Hosking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
